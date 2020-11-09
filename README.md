@@ -9,7 +9,7 @@ Repo for fifth homework on 2019/2020 C++ course
 Написать функцию для поиска минимального элемента массива со следующей сигнатурой:
 
 ```cpp 
-int minElement (int* array, int size); // m - указатель на массив, size - размер массива
+int minElement (int* array, int size); // array - указатель на массив, size - размер массива
 ```
 
 Пример: 
