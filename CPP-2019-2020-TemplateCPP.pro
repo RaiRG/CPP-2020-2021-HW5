@@ -4,4 +4,10 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
-        main.cpp
+        main.cpp \
+        minElementFunc.cpp \
+        minElementFunc2.cpp \
+        rotateFunc.cpp
+
+HEADERS += \
+    homework.h
